@@ -13,9 +13,6 @@ This Python application provides a graphical user interface (GUI) for pricing **
   - Simulates stochastic volatility for more accurate modeling of market behavior.
   - Implements backward induction for American option pricing.
 
-- **Black-Scholes Model:**
-  - Calculates prices for **European call and put options** using the Black-Scholes model.
-
 ### Graphical Visualization:
 - Displays interactive graphs showing option price evolution over time to maturity.
 - Final option prices are displayed under each graph.
